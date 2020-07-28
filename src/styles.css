@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #222222;
+  color: #efefef;
+}
+
+svg {
+  width: 100%;
+  margin: auto;
+  max-height: 600px;
+
+  border: 1px solid red;
+}

@@ -9,4 +9,5 @@ I designed the [logo for my business](https://dwl-public-resources.s3.eu-west-2.
 ## How did I do this?
 
 The logo was designed on Affinity Designer using an iPad and the Apple Pencil. Later I also used Affinity Designer and the isometric grid to manually draw the 3D version of it and grouped the various layers in a way that I could see them separated as an SVG.
-I then imported the SVG into a react component and added React Spring to animate the various groups.
+I then imported the SVG into a react component and added React Spring to animate
+the various groups.
