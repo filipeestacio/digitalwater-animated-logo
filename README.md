@@ -1,5 +1,7 @@
 # Animated SVG
 
+[Click me to see](https://githubbox.com/filipeestacio/digitalwater-animated-logo)
+
 ## What is this?
 
 An example of SVG animation with React Spring
